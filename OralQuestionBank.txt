@@ -1,0 +1,191 @@
+All Questions PL3
+
+1.list of UML diagrams
+2. Explain entire Board of beagle bone
+3. Explain traffic simulation of katraj chowk
+4. Write kernel for vecaddition
+5. full form.of LISP
+6.  FULL FORM OF ARM
+7. Risc vs cisc!
+8. Functions to change cpu frequency
+9.Virual memory
+10.Testing ?
+11. Regression Testing 
+12.Unit Testing 
+13.SRS doc 
+14.Busy box 
+15.RTOS 
+16.Waterfall model
+17.Difference between GPU and CPU 
+18.Distributed Systems
+19.Types of UML diagram
+20.Software used For drawing
+21.Features of BBB
+22.Write kernel in cuda for vector addition
+23.Threads, blocks, grid 
+24.Workings of lift 
+25.What is CUDA
+26.Explain whatever you know about BBB
+27.How did you check execution time 
+28.What is zygot?
+29.supernetting
+30. What is __global and __shared?
+31. Why kernel appears yellow coloured in nsight IDE? 
+32. Max no of threads in block?
+33. Name of college GPU?
+34. Compute capacity of college GPU? 
+34. Can we do 64 bit multiplication in matrix? 
+35. What is zygote?
+36. What is toolchain?
+37. Difference between OpenMP and MPI 
+38. What is cross compilation?
+39.this pointer and why it is used
+40. How the client connects to the server
+41.What is distributed Operating system 
+Examples of distributed os
+42.Definition of eos
+43.How to calculate cost of project (he meant actual money) 
+44.Name the units in software engineering subject syllabus
+45.What is the difference between cpu and gpu
+46.What do you mean by quad core and octa core
+47.What is lambda function in lisp
+48.What is progn function in lisp
+49.He also asked about how to find out ip address of a system, subnetting, subnet mask, supernetting
+50. How to achieve concurrency in lisp?
+51. How will you perform sine,cosine etc?
+52. What is the significance of lambda function and progn?
+53. What is yacc and it's use?
+54. Explain token generation and parsing 
+55. Difference between OpenMP and OpenCL
+56. Difference between microprocessor and micro controller 
+57. What is Virtualisation 
+58. How to check whether you can work with the GPU of your computer or not
+59. BBB specifications 
+60. Role of GPIO
+61.Types of file systems 
+62. What is virtual memory and how is it used in EOS
+63. What are functional and non-functional requirements?
+64.Write down kernel function for Vector Addition in OpenCL.
+65.How do u achieve concurrency in ur CUDA program
+66. Arm processors features
+67. Factorial program in lisp
+68.Types of testing 
+69. what is shared memory
+70. Inter thread communication
+71. IPC
+72. Critical section
+73. Trace- ptrace strace
+74. Binary search vs nary search (which is better)
+75. Why to include omp.h
+76. N-ary search openmp
+77. Everything about lex and yacc
+78. Reentrant parser
+79.	Echo server applications
+80.	Write Vector addition opencl kernel
+81.	Stepper motor (:/ c group)
+82.	Adafruit
+83.	Beaglebone components
+84.	Multithreaded echo server
+85.	Rtos
+86.	Hard soft firm
+87.	Zygote
+88.	Dameon process
+89.	Viva
+90.	Port no
+91.	Highest possible port no
+92.	LISP
+93.	Explain the concurrency in the code , flow of execution.
+94.	Display thread id
+95.	Display I'm octal and hexadecimal format 
+96.	Viva 
+97.	Diff btw String and List 
+98.	Explain Thumb Instruction Set 
+99.	List is written within double or single quotes ? 
+100.Explain Deamon process and how to find it in the system
+101.Concurrent yacc
+120.Regular expressions in lex or yacc file
+121.Why is -d option used
+122.General working of code 
+123.Structure of yacc file
+124.Viva
+125	OpenMP
+126	Sockets 
+127	What is subnet mask and what info can you get from it
+128	Multithreading in beaglebone?🙄
+129	Features of beaglebone.
+130	Gpio pins their uses.
+131	How u used switch?
+132	Multi gpu architecture.
+133	Diffrence between cuda and opencl kernel. Thier examples.
+134	Why ur using reentrent bison-bridge.
+135	Uml softwares.
+136	What is virtualization?
+137	What is semaphore? Types.
+138	Diff. between CUDA & OpenCL.
+139	Explain Dining Philosophers' Problem.
+140	Diff. between syntactic and semantic error.
+141	OpenCL Vector Addition Kernal (P.P.J)
+142	What is a state diagram?
+143	UML.
+144	Stepper Motor : Explanation and application.
+145	ARM modes
+146	How interrupts are handled
+147	Semaphore working
+148	Maximum threads in a block
+149	Types of different memory in Cuda
+150	 Function qualifiers in cuda
+151	Prims algo aaya
+152	What is gdb? What are shortcuts in gdb? What are breakpoints?
+153	What are sockets?
+154	What is jizelle instruction set? Which instruction has to be used for it?
+155	What is difference between arm 7 and arm 9?
+156	Practical : explain the execution.
+157	What happens if i give negative input for one of the distances?
+158	What is #pragma?,
+159	Is openmp used for parallel or concurrent computing?
+160	How to achieve concurrency in lisp?
+161	What is the significance of lambda function and progn?
+162	Internal: Display thread ids for each thread 
+163	External: Hexadecimal 
+164	What is CUDA?
+165	Various types of IPC?
+167	What is subnet mask?
+168	Message Queue vs MPI
+169	Difference between OpenCL and CUDA
+170	What are functional and non functional requirements?
+171	Difference between concurrency and parallelism 
+172	Why use bison bridge?
+173	What's the difference between serial and concurrent execution of lex and yacc assignment?
+174	What computation model does lisp fall under?
+175	Code n-ary search
+176	How n-ary search works?
+177	Write kernel for vec addition in Cuda and OpenCL
+178	Significance of __global in OpenCL
+179	Which is best sorting algorithm ?
+180	Complexity of n-ary search 
+181	What is unit testing?
+182	Explain Worst case average case and best case testing
+183	Reentrant parser
+184	Yyval
+185	Yyparse
+186	Parsetree
+187	Pthread_create
+188	Atoi
+189	Thread Vs process which is better?
+190	YACC output files
+191	Echo server
+192	Diff between echo n chat server
+193	Lisp application
+194	BBB architecture
+195	Stepper motor application
+196	Sbcl full form
+197	Real world application of reader writer
+198	How to calculate global id in cuda
+199	Functional and non functional requirements 
+200	What is lexical analyzer
+201	Syntactical and semantical analysis 
+202	Bbb architecture risc or cisc
+203 Example of software interrupt, what is IVT, ISR.  What is IPC
+
+
+
